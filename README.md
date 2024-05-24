@@ -6,6 +6,8 @@ The Netflix Recommendation System is a Python-based application that suggests mo
 
 **CSV file by M Rahul Vyas taken from Kaggle**
 
+**Currently Runs In Terminal**
+
 ## Features
 - Asks the user for their name and preferred type (Movie or TV Show).
 - Allows users to search based on one or two criteria (director, cast, listed_in).
