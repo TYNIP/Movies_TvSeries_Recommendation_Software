@@ -55,7 +55,7 @@ The recommendation system uses a CSV file (`netflix_titles.csv`) with the follow
 ## Example
 
 ```sh
-Hello! Welcome to the Netflix Recommendation System.
+Hello! Welcome to the Movies and Tv Series Recommendation System.
 What's your name? Tynip
 Hi Tynip!
 Are you interested in Movies or TV Shows? Movie

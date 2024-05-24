@@ -9,7 +9,7 @@ def main():
     data = read_csv(file_path)
     index = process_data(data)
     
-    print("Hello! Welcome to the Netflix Recommendation System.")
+    print("Welcome to the Movies and Tv Series Recommendation System.")
     name = get_user_input("What's your name? ")
     print(f"Hi {name}!")
     print()
